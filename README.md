@@ -14,4 +14,4 @@ Project 5 Classification <br>
 Project 6 Statistical Machine Learning <br>
 Project 7 Unsupervised Learning <br>
 Link to the Project Notebooks:<br> 
-[Link to Project on Google](https:// put the public link from Google drive here )
+[Link to Project on Google](https://www.google.com )
